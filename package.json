@@ -1,5 +1,5 @@
 {
-  "name": "package-json-editor",
+  "name": "@unscsprt/package-json-editor",
   "version": "1.0.1",
   "description": "npm package json editor that preserve newline and indentation",
   "main": "src/index.js",

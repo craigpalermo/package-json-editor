@@ -1,4 +1,6 @@
-# package-json-editor
+# @unscsprt/package-json-editor
+
+This is a fork of [package-json-editor](https://github.com/tuananh/package-json-editor) so we can publish new versions to NPM.
 
 > npm package editor that preserve newline and indentation
 
